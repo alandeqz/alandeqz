@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 # 💫 About Me:
-🔭 I’m currently working as a Go Backend Developer<br>👯 I’m looking to collaborate on some open-source projects<br>🤝 I’m looking for help with highly enthusiastic & experienced developers<br>🌱 I’m currently learning the basics of machine learning & artificial intellifence<br>💬 Ask me about anything related but not limited to the software development<br>⚡ My hobbies: Coding, Travelling, Watching movies & Swimming
+🔭 I’m currently doing the backend development with GoLang<br>👯 I’m looking to collaborate on some open-source projects<br>🤝 I’m looking for help with highly enthusiastic & experienced developers<br>🌱 I’m currently learning the basics of machine learning & artificial intellifence<br>💬 Ask me about anything related but not limited to the software development<br>⚡ My hobbies: Coding, Travelling, Watching movies & Swimming
 
 
 ## 🌐 Socials:
